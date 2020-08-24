@@ -1,7 +1,7 @@
 /**
- * Author: Chris Bourke
- *         cbourke@cse.unl.edu
- * Date: 2020/03/26
+ * Author: mustafa aliwa
+ *         
+ * Date: 2020/08/24
  *
  * A simple hello world program in C
  *
@@ -11,8 +11,9 @@
 
 int main(int argc, char **argv) {
 
-  printf("mustafa aliwa\n");
-  printf("computer science ");
+  printf("mustafa   aliwa!\n");
+  printf("computer   science \n"); 
 
 
   return 0;
+}
